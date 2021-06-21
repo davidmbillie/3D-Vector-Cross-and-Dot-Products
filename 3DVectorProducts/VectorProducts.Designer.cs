@@ -1,5 +1,5 @@
 ﻿
-namespace MatrixCrossProduct
+namespace Product
 {
 	partial class VectorProducts
 	{
